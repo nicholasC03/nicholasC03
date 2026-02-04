@@ -8,7 +8,7 @@ My entry into security wasn't formal. It was being a kid who got targeted by "fr
 
 ## Why I Prioritize Data Integrity
 
-I don't just "do IT." I build systems that are meant to last and stay secure. I view every past system failure or personal mistake as a blueprint for better hardening. My philosophy is simple: security should be the foundation, not a patch you apply at the end. Whether I am configuring a server or monitoring logs, I operate with a "Deny by Default" mindset to ensure that data integrity is never compromised.
+I care for peoples' well-being and I want to help educate those in keeping their digital identity and PII safe! I build systems that are meant to last and stay secure. I view every past system failure or personal mistake as a blueprint for better hardening. My philosophy is simple: security should be the foundation, not a patch you apply at the end. Whether I am configuring a server or monitoring logs, I operate with a "Deny by Default" mindset to ensure that data integrity is never compromised. However, if something seems 'off', it probably is.
 
 
 
