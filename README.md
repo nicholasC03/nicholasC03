@@ -64,7 +64,7 @@ I care for peoples' well-being and I want to help educate those in keeping their
 
 * **[DNS Poisoning & Forensic Triage Lab](https://github.com/nicholasC03/DNS-Poisoning-Triage-Lab)** | *February 2026*
   * **Status:** Complete / Hardened
-  * Investigated a persistent 839-byte DNS anomaly identified through traffic analysis and latency monitoring. Performed Layer 2/3 triage and implemented **DNS-over-TLS (DoT)** via `systemd-resolved` to prevent further unencrypted packet injection.
+  * Investigated a persistent 839-byte DNS anomaly identified through traffic analysis and latency monitoring. Performed Layer 2/3 triage and implemented **DNS-over-TLS (DoT)** to prevent further unencrypted packet injection.
 
 * **Windows Forensic Triage: Artifact Extraction** | *In Progress*
   * **Status:** Documentation Phase
