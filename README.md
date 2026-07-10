@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/nicholaslovestech) · [Credly](https://www.credly.com/users/nicholas-comunale) · [TryHackMe](https://tryhackme.com/p/nicholas0318)
 
-I'm an IT support and security operations candidate based in Port Charlotte, Florida. I enjoy troubleshooting the point where systems, networks, and people meet—especially when I can turn a confusing problem into clear next steps.
+I'm an IT support and security operations candidate based in Florida. I enjoy troubleshooting the point where systems, networks, and people meet—especially when I can turn a confusing problem into clear next steps.
 
 My interest in security started for a very human reason. When I was younger, I fell for more than one social-engineering scam involving games and virtual currency. I wanted to understand how those tricks worked and how people could protect themselves. That curiosity eventually grew into hands-on work with Linux, Windows, networking, packet analysis, and security tools.
 
