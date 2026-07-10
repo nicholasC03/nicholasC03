@@ -1,79 +1,39 @@
-# Hello, I'm Nicholas Comunale
-<a href="https://www.linkedin.com/in/nicholaslovestech"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.credly.com/users/nicholas-comunale"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/nicholas0318"><img src="https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=95d03a" /></a>
+# Hey, I'm Nicholas Comunale
 
-## From Social Engineering Target to SOC Defense
+[LinkedIn](https://www.linkedin.com/in/nicholaslovestech) · [Credly](https://www.credly.com/users/nicholas-comunale) · [TryHackMe](https://tryhackme.com/p/nicholas0318)
 
-My entry into security wasn't formal. It was being a kid who got targeted by "free robux" and game currency scams. Getting hit by those early social engineering traps didn't just frustrate me: it made me want to understand the mechanics behind the exploit. I turned that curiosity into a career. Now, I use those childhood lessons to stay one step ahead of the same tactics, moving from the one being tricked to the one building the defenses.
+I'm an IT support and security operations candidate based in Port Charlotte, Florida. I enjoy troubleshooting the point where systems, networks, and people meet—especially when I can turn a confusing problem into clear next steps.
 
-## Why I Prioritize Data Integrity
+My interest in security started for a very human reason. When I was younger, I fell for more than one social-engineering scam involving games and virtual currency. I wanted to understand how those tricks worked and how people could protect themselves. That curiosity eventually grew into hands-on work with Linux, Windows, networking, packet analysis, and security tools.
 
-I care for peoples' well-being and I want to help educate those in keeping their digital identity and PII safe! I build systems that are meant to last and stay secure. My philosophy is simple: security should be the foundation, not a patch you apply at the end. Whether I am configuring a server or monitoring logs, I operate with a "Deny by Default" mindset to ensure that data integrity is never compromised.
+Right now, I work as a **US Rater at TELUS Technology**, where I follow detailed guidelines, investigate ambiguous results, document decisions, and adjust quickly when standards change. I also bring several years of customer-facing experience from Walmart and Marco's Pizza. That background taught me to stay patient, ask useful questions, and explain problems without making people feel talked down to.
 
----
+## What I work with
 
-## 🎓 Certifications & Education
+- **Systems:** Windows, Windows Server labs, Linux (Arch and Ubuntu), macOS
+- **Support:** troubleshooting, documentation, escalation, user communication, POS and endpoint support
+- **Networking:** TCP/IP, DNS, DHCP, NAT, VLANs, pfSense, Wireshark
+- **Security labs:** Splunk, Microsoft Sentinel, Nessus, packet triage, vulnerability research
+- **Scripting:** Bash and Python
 
-### Professional Credentials
-<div align="left">
-  <a href="https://www.credly.com/badges/6a5f4694-41cd-46ed-8c0f-eef3ade3a960/public_url">
-    <img src="https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" height="40" />
-  </a>
-  <a href="https://www.credly.com/badges/052efc11-2926-41c1-afda-775d5b4e5b19/public_url">
-    <img src="https://img.shields.io/badge/CompTIA_Server%2B-BA181B?style=for-the-badge&logo=comptia&logoColor=white" height="40" />
-  </a>
-</div>
+## Certifications and education
 
-* **B.A.S. in Cyber Forensics** | Keiser University
-* **Information Technology Foundations** | MyComputerCareer
+- CompTIA Security+
+- CompTIA Server+
+- B.A.S. in Cyber Forensics and Information Security — Keiser University
+- Information Technology Foundations — MyComputerCareer
 
----
+## Featured projects
 
-## 🛠️ SOC Analyst Skillset
+### [Segmented Network Lab with pfSense](https://github.com/nicholasC03/segmented-network-lab-pfsense)
 
-### Detection & Analysis
-* **Network Traffic Analysis:** Catching weird behavior and unauthorized lateral movement with Wireshark.
-* **SIEM & Log Management:** Using Microsoft Sentinel and Splunk to aggregate and correlate logs.
-* **Vulnerability Assessment:** Finding system weaknesses and prioritizing remediation via CVSS scores.
+Built to practice VLAN separation, NAT, firewall rules, and troubleshooting between network segments. The goal is to show the setup and the tests—not just a final screenshot.
 
-### Incident Response & Operations
-* **Forensic Triage:** Running assessments on Windows/Linux environments to isolate artifacts (IoCs).
-* **Infrastructure Hardening:** Hardening directory services and GPOs to keep the environment locked down.
-* **Automation:** Streamlining repetitive triage tasks via Shuffle SOAR playbooks.
+### [DNS and ARP Traffic Triage Lab](https://github.com/nicholasC03/DNS-Poisoning-Triage-Lab)
 
-## 🧰 Security Toolkit
+An educational review of DNS and ARP traffic using Wireshark, `tshark`, Bash, and Unbound. The project separates what the capture shows from what it cannot prove, then documents how DNS-over-TLS changes the resolver's upstream transport.
 
-### OS & Infrastructure
-<div>
-    <img src="https://img.shields.io/badge/Debian_Linux-A81D33?style=for-the-badge&logo=Debian&logoColor=white" />
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
-</div>
+## What I'm looking for
 
-### Industry Standard Tools
-<div>
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
+I'm targeting IT support, help desk, desktop support, NOC, and entry-level security operations roles in Southwest Florida or in a suitable hybrid environment. I'm especially interested in teams that value careful troubleshooting, useful documentation, and people who are willing to keep learning.
 
----
-
-### 🔬 Featured Technical Projects
-
-* **[DNS Poisoning & Forensic Triage Lab](https://github.com/nicholasC03/DNS-Poisoning-Triage-Lab)** | *February 2026*
-  * **Status:** Complete / Hardened
-  * Investigated a persistent 839-byte DNS anomaly identified through traffic analysis and latency monitoring. Performed Layer 2/3 triage and implemented **DNS-over-TLS (DoT)** to prevent further unencrypted packet injection.
-
-* **Windows Forensic Triage: Artifact Extraction** | *In Progress*
-  * **Status:** Documentation Phase
-  * Analyzing Windows Event Logs and MFT artifacts from a suspected system compromise. Utilizing photographic evidence and log transcripts captured during live triage to identify indicators of compromise (IoCs).
-
-* **Asset Inventory API (Java/Spring Boot)** | *In Progress*
-  * **Status:** Active Development
-  * Developing a backend utility for automated attack surface mapping and hardware asset tracking within a local environment.
- 
-    
----
-*I monitor NVD, CISA KEV, and VirusTotal daily to track emerging CVEs and OS vulnerabilities.*
